@@ -1,0 +1,125 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Naan",
+      "price": "15",
+      "image":"assets/Roti/Naan.jpg"
+  },
+    {
+      "id": 2,
+      "title": "PlainRoti",
+      "price": "15",
+      "image":"assets/Roti/TR1.jpeg"
+  },
+    {
+      "id": 3,
+      "title": "ButterRoti",
+      "price": "20",
+      "image":"assets/Roti/TR2.jpeg"
+  },
+    {
+      "id": 4,
+      "title": "Aloo Pratha",
+      "price": "25",
+      "image":"assets/Roti/TR5.jpeg"
+  },
+    {
+      "id": 5,
+      "title": "BenganMasala",
+      "price": "160",
+      "image":"assets/bhaji/bengan.jpeg"
+  },
+    {
+      "id": 6,
+      "title": "PannerMasala",
+      "price": "260",
+      "image":"assets/bhaji/panner masala.jpeg"
+  },
+    {
+      "id": 7,
+      "title": "KajuCury",
+      "price": "230",
+      "image":"assets/bhaji/kaju.jpeg"
+  },
+ {
+      "id": 8,
+      "title": "PalakPanner",
+      "price": "205",
+      "image":"assets/bhaji/palak panner.jpeg"
+  },
+ {
+      "id": 9,
+      "title": "DalTadka",
+      "price": "155",
+      "image":"assets/chines/daltadka.jpeg"
+  },
+ {
+      "id": 10,
+      "title": "DryManchurian",
+      "price": "150",
+      "image":"assets/chines/dry man.jpeg"
+  },
+ {
+      "id":11,
+      "title": "GarlicBread",
+      "price": "120",
+      "image":"assets/chines/gb.jpeg"
+  },
+ {
+      "id": 12,
+      "title": "Masala Papad",
+      "price": "25",
+      "image":"assets/chines/mpapad.jpeg"
+  },
+  {
+    "id": 13,
+    "title": "Basundi",
+    "price": "60",
+    "image":"assets/Sweet/bs.jpeg"
+},
+  {
+    "id": 14,
+    "title": "Kalakand",
+    "price": "50",
+    "image":"assets/Sweet/kala.jpeg"
+},
+  {
+    "id": 15,
+    "title": "Shrikhanda",
+    "price": "40",
+    "image":"assets/Sweet/shri.jpeg"
+},
+  {
+    "id": 16,
+    "title": "GujabJamun",
+    "price": "70",
+    "image":"assets/Sweet/gj.jpeg"
+},
+  {
+    "id": 17,
+    "title": "CheesDosa",
+    "price": "60",
+    "image":"assets/south/cdosa.jpeg"
+},
+  {
+    "id": 18,
+    "title": "Idli",
+    "price": "65",
+    "image":"assets/south/idli.jpeg"
+},
+  {
+    "id": 19,
+    "title": "MasalaDosa",
+    "price": "100",
+    "image":"assets/south/msd.jpeg"
+},
+{
+    "id": 20,
+    "title": "FruitSalad",
+    "price": "90",
+    "image":"assets/salad/f salad.jpeg"
+}
+ 
+] 
+}
